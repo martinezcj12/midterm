@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/martinezcj12/midterm/issues"
   },
-  "homepage": "https://github.com/martinezcj12/midterm#readme"
+  "homepage": "https://github.com/martinezcj12/midterm#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
